@@ -11,6 +11,8 @@ The Vibes module for the [Quest Network Operating System](https://github.com/Que
 
 It synchronizes a multimedia library with reviews and comments. and (encrypted) offer chunks of data to provide media between peers in Quest Network channels. 
 
+Offers a decentralized streaming service that pays creators for content by percentage of content consumed.
+
 ## License
 
 GNU AGPLv3
